@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alexandre Bonnamain! </h2>
-<p><em>Systems Analysis and Development Student at <a href="https://www.impacta.com.br/">University of IMPACTA</a></br>Developer Consultant at <a href="https://www.">******</a>
+<p><em>Systems Analysis and Development Student at <a href="https://www.impacta.com.br/">University of IMPACTA</a></br>Backend Developer <a href="https://www.">******</a>
 </em></p>
 
 
