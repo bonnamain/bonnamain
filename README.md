@@ -12,7 +12,7 @@
 const bonnamain = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, PHP, C#],
-  tools: [React, Node, Laravel],
+  tools: [React, Node, Laravel, SQL, MySQL],
   hobbies: ["Coding", "Gaming", "RPG"],
   techCommunities: {
                         Coorganizer: "FlisoL Porto Alegre - RS",
