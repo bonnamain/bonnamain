@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alexandre Bonnamain! <img src="https://i.imgur.com/S9QmV55.gif" width="50"></h2>
-<img align='right' src="https://i.imgur.com/190wuTq.gif" width="290">
+<img align='right'src="https://i.imgur.com/190wuTq.gif" width="290">
 <p><em>Systems Analysis and Development Student at <a href="https://www.impacta.com.br/">University of IMPACTA</a></br>Developer Consultant at <a href="https://www.">******</a>
 </em></p>
 
