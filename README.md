@@ -15,7 +15,6 @@ const bonnamain = {
   hobbies: ["Coding", "Gaming", "RPG"],
   techCommunities: {
                         Coorganizer: "FlisoL Porto Alegre - RS",
-                        speaker: "Latinity",
                       },
  challenge: "I'm studying Japanese"
 }
