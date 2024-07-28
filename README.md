@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alexandre Bonnamain! </h2>
-<p><em>Systems Analysis and Development Student at <a href="https://www.impacta.com.br/">University of IMPACTA</a></br>Backend Developer <a href="https://www.">******</a>
+<p><em>Systems Analysis and Development Student at <a href="https://www.impacta.com.br/">University of IMPACTA</a></br>Quality Assurance <a href="https://www.">******</a>
 </em></p>
 
 
@@ -10,13 +10,13 @@
 ```javascript
 const bonnamain = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, PHP, C#],
-  tools: [React, Node, Laravel, SQL, MySQL],
+  code: [Python, Javascript, HTML, CSS,],
+  tools: [Robot Framework, Playwright, MySQL, Visual Studio Code],
   hobbies: ["Coding", "Gaming", "RPG"],
   techCommunities: {
                         Coorganizer: "FlisoL Porto Alegre - RS",
                       },
- challenge: "I'm studying Japanese"
+ challenge: "I'm studying Russian"
 }
 ```
 
