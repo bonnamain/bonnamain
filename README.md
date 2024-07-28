@@ -11,7 +11,7 @@
 const bonnamain = {
   pronouns: "He" | "Him",
   code: [Python, Javascript, HTML, CSS,],
-  tools: [Robot Framework, Playwright, MySQL, Visual Studio Code],
+  tools: [Robot Framework, Playwright, MySQL, Excel, Visual Studio Code],
   hobbies: ["Coding", "Gaming", "RPG"],
   techCommunities: {
                         Coorganizer: "FlisoL Porto Alegre - RS",
