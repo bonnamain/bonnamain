@@ -4,7 +4,7 @@
 
 Estudante de **Engenharia de Software**, Técnico em Informática e profissional de tecnologia com foco em **desenvolvimento Back-End, Python e Linux**.
 
-🐧 Experiência com Linux, Debian, terminal, Bash, servidores, SSH, redes, permissões, serviços e administração de sistemas.
+🐧 Experiência com FreeBSD, GNU/Linux, Debian, terminal, Bash, servidores, SSH, redes, permissões, serviços e administração de sistemas.
 
 ---
 
