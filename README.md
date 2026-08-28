@@ -10,9 +10,9 @@ Estudante de **Engenharia de Software**, Técnico em Informática e profissional
 
 ### 🚀 Tech Stack
 
-🐍 **Python** • ⚡ **JavaScript** • 🐧 **Linux** • 🌀 **Debian**  
-🔀 **Git/GitHub** • 🗄️ **SQL** • 🌐 **HTML5/CSS3**  
-📊 **Pandas/NumPy** • 🤖 **Generative AI**
+🐍 **Python** • ⚡ **JavaScript** • 🐧 **GNU/Linux** • 🟠 **Ubuntu**  
+😈 **FreeBSD** • 🔀 **Git/GitHub** • 🗄️ **SQL**  
+🌐 **HTML5/CSS3** • 📊 **Pandas/NumPy** • 🤖 **Generative AI**
 
 ---
 
