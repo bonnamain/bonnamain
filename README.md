@@ -1,42 +1,23 @@
-# 🧔🏼‍♂️ Alexandre Bonnamain
+# 👋 Olá, eu sou Alexandre
 
-### ⚙️ Software Engineering | Back-End | 🐧 Linux
+💻 **Desenvolvedor em formação**, com foco em Desenvolvimento Web, Back-end e Inteligência Artificial.
 
-Estudante de **Engenharia de Software**, Técnico em Informática e profissional de tecnologia com foco em **desenvolvimento Back-End, Python e Linux**.
+🎓 **Análise e Desenvolvimento de Sistemas — ULBRA** | Técnico em Informática
 
-🐧 Experiência com FreeBSD, GNU/Linux, Debian, terminal, Bash, servidores, SSH, redes, permissões, serviços e administração de sistemas.
+### 🚀 Tecnologias
 
----
+**Python • JavaScript • PHP • HTML5 • CSS3 • MySQL • SQL**
 
-### 🚀 Tech Stack
+### 📚 Atualmente estudando
 
-🐍 **Python** • ⚡ **JavaScript** • 🐧 **GNU/Linux** • 🟠 **Ubuntu**  
-😈 **FreeBSD** • 🔀 **Git/GitHub** • 🗄️ **SQL**  
-🌐 **HTML5/CSS3** • 📊 **Pandas/NumPy** • 🤖 **Generative AI**
+* ⚙️ Desenvolvimento Back-end
+* 🤖 Inteligência Artificial
+* 👁️ Visão Computacional
 
----
+### 🎯 Interesses
 
-### 🎓 Formação
+**Desenvolvimento de Software • Back-end • Inteligência Artificial • Visão Computacional**
 
-🎓 **Engenharia de Software** — Bacharelado em andamento  
-💻 **Técnico em Informática**
+### 📫 Contato
 
----
-
-### 🎯 Foco
-
-```text
-⚙️ Software Engineering
-🐍 Back-End Development
-🐧 Linux
-🗄️ Databases
-🔌 APIs
-```
-
----
-
-### 💻 Projetos
-
-Projetos focados em **Back-End, Python, Linux, automação e Engenharia de Software**.
-
-🖖 *Live long and prosper.*
+[LinkedIn](SEU_LINKEDIN) • [Portfólio](SEU_PORTFOLIO)
