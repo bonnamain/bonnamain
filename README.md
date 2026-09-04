@@ -1,23 +1,45 @@
 # 👋 Olá, eu sou Alexandre
 
-💻 **Desenvolvedor em formação**, com foco em Desenvolvimento Web, Back-end e Inteligência Artificial.
+💻 **Desenvolvedor de Software em formação**, com interesse em
+Desenvolvimento Web, Back-end e Inteligência Artificial.
 
-🎓 **Análise e Desenvolvimento de Sistemas — ULBRA** | Técnico em Informática
+🎓 **Análise e Desenvolvimento de Sistemas — ULBRA**  
+🎓 **Técnico em Informática — Escola Técnica Alcides Maya**
 
-### 🚀 Tecnologias
+## 🚀 Tecnologias
 
 **Python • JavaScript • PHP • HTML5 • CSS3 • MySQL • SQL**
 
-### 📚 Atualmente estudando
+Também tenho interesse e experiência com:
 
-* ⚙️ Desenvolvimento Back-end
-* 🤖 Inteligência Artificial
-* 👁️ Visão Computacional
+- Linux e Windows
+- Git e GitHub
+- Desenvolvimento Back-end
+- Inteligência Artificial Generativa
+- Pandas e NumPy
 
-### 🎯 Interesses
+## 📚 Atualmente estudando
 
-**Desenvolvimento de Software • Back-end • Inteligência Artificial • Visão Computacional**
+- ⚙️ Desenvolvimento Back-end
+- 🤖 Inteligência Artificial
+- 👁️ Visão Computacional
+- 🐧 Ferramentas e automação de terminal
 
-### 📫 Contato
+## 🎯 Interesses
+
+**Desenvolvimento de Software • Back-end • Inteligência Artificial •
+Visão Computacional • Automação**
+
+## 🛠️ Projetos
+
+### 🖥️ Fake Terminal no Windows 11
+
+Uma série prática sobre a construção de uma experiência de terminal
+inspirada no Linux dentro do Windows 11, utilizando Windows Terminal,
+Git Bash e ferramentas modernas de linha de comando.
+
+👉 [Ver projeto](SEU_LINK_DO_REPOSITORIO)
+
+## 📫 Contato
 
 [LinkedIn](SEU_LINKEDIN) • [Portfólio](SEU_PORTFOLIO)
